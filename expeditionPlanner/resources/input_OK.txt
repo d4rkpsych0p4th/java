@@ -1,0 +1,13 @@
+officer;pelaez;20;55
+officer;rodriguez;10;40
+officer;lopez;15;35
+guard;gomez;90
+guard;jimenez;100
+guard;Ramirez;85
+guard;Gutierrez;25
+weapons;10
+boxes;10
+vehicles;5
+backpacks;20
+chests;5
+
